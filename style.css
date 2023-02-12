@@ -1,0 +1,42 @@
+body{
+    min-height: 100vh;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    margin: 0;
+    background-color: hsl(212, 45%, 89%);
+    
+}
+
+.main-container{
+display: ;
+text-align: center;
+display: flex;
+justify-content: center;
+}
+
+.white-card{
+width:350px;
+background-color: white;
+border-radius: 20px;
+box-shadow: 0px 0px 30px -10px hsl(220, 15%, 55%);
+padding: 20px 10px 30px;
+}
+
+img{
+    width: 320px;
+    border-radius: 10px;
+    margin: fit;
+}
+.text-container{
+    margin: 40px 30px 30px;
+
+}
+.paragraph1{
+    color: hsl(220, 15%, 55%);
+    margin-top: 30px;
+    font-size: 15px;
+}
+h2{
+    font-weight: 700;
+    color: rgb(39, 38, 38);
+}
