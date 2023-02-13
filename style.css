@@ -4,10 +4,9 @@ body{
     font-weight: 400;
     margin: 0;
     background-color: hsl(212, 45%, 89%);
-    display:flex;
-    justify-items: center;
-   
-    
+    display: flex;
+    align-items: center;
+    justify-content: center;    
 }
 
 .main-container{
